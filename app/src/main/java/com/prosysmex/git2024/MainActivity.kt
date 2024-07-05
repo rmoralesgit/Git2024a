@@ -25,7 +25,7 @@ class MainActivity : ComponentActivity() {
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
                 ) {
-                    Greeting("Git - GitHub2024 04jul2024")
+                    Greeting("Git - GitHub2024 04jul2024 3rd commit")
                 }
             }
         }
